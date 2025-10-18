@@ -1,0 +1,2 @@
+{"direction": "received", "from": "Bob", "plaintext": "Hello", "ciphertext": "pQwocolL+15wHViYQB7wYCrVJ89mqlfby8zzPgABJzB4TXhEKw==", "timestamp": "15:38:39"}
+{"direction": "sent", "to": "Bob", "plaintext": "How are you Bob?", "ciphertext": "znrmG3ehUKYpY1Jnb6kP5d6F4y3zZR/1gl6mGDPm/mVoSQLP0y3YZYBSaWiVbHPS", "timestamp": "15:38:52"}
